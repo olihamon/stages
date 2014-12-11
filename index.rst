@@ -35,6 +35,8 @@ Périodes de stage :
 
 Possibilité de stage long en entreprise (11 mois à partir de juillet).
 
+La diffusion des offres est payante (40 €).
+
 http://www.enpc.fr/proposez-des-stages
 
 
@@ -210,6 +212,12 @@ http://www.istic.univ-rennes1.fr/
 UFR d'informatique de l'université de Rennes 1.
 
 http://www.istic.univ-rennes1.fr/fr/Entreprises/Stages/
+
+
+INSA (Groupe)
+=========
+
+http://www.groupe-insa.fr/recruter
 
 
 INSA Lyon
